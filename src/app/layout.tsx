@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Senac Filmes",
-  description: "Encontre rapidamente o que assistir",
+  title: "Biblioverse - Livros online",
+  description: "Encontre rapidamente o que ler",
 };
 
 export default function RootLayout({
